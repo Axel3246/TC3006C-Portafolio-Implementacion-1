@@ -20,7 +20,7 @@ Este proyecto utiliza un modelo de regresión lineal para predecir las temperatu
 
 ## Desempeño del Modelo
 
-- **Pesos Finales**: \( w = 0.67 \), \( b = 2.55 \)
+- **Pesos Finales**: w = 0.67, b = 2.55
 - **MSE Final**: 3.96
 - **Precisión de Predicción**: El modelo muestra una diferencia de 1 a 3 grados entre los valores predichos y reales, lo cual es esperado debido a la dispersión de los datos.
 
