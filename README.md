@@ -27,7 +27,7 @@ Este proyecto utiliza un modelo de regresión lineal para predecir las temperatu
 ## Conclusiones y Futuro
 
 El modelo tiene un buen desempeño, pero hay margen para mejoras:
-1. **Más Datos**: Incluir más instancias podría mejorar la generalización del modelo.
-2. **Ajuste de Épocas**: Aumentar el número de épocas podría reducir aún más el MSE.
-3. **Ajuste de la División de Datos**: Modificar la proporción de datos entre entrenamiento y prueba podría optimizar los parámetros.
+1. **Más Datos**: Incluir más instancias podría mejorar el entrenamiento del modelo.
+2. **Ajuste de Épocas**: Aumentar el número de epochs podría reducir aún más el MSE.
+3. **Ajuste de la División de Datos**: Modificar la proporción de datos entre train y test set podría optimizar más los parámetros.
 4. **Grados Polinomiales**: Agregar grados polinomiales podría capturar relaciones más complejas en los datos.
