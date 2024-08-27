@@ -180,7 +180,7 @@ El dataset utilizado recopila información sobre las temperaturas durante la Seg
 la temperatura promedio a partir de la temperatura máxima (en celsius) utilizando un modelo de regresión lineal.
 
 Mediante el uso de funciones en Python y la librería pandas se identificó que el dataset cuenta con un total de 119,040 instancias y 31 features. Cabe destacar que, 
-aunque varias de estas features presentan valores nulos, las dos que se utilizarán en este análisis (MinTemp y MaxTemp) no contienen datos faltantes en ninguna de las 
+aunque varias de estas features presentan valores nulos, las dos que se utilizarán en este análisis (Mean y MaxTemp) no contienen datos faltantes en ninguna de las 
 instancias. Por lo tanto, no será necesario realizar limpieza o imputación de datos para estas variables. Sin embargo, es necesario limitar la cantidad de datos para 
 optimizar el uso de recursos computacionales, por lo que solo se utilizarán las primeras 2,000 instancias para entrenar el modelo, haciendo una división del 70% para 
 Train y 30% para Test.
